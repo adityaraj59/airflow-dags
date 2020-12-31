@@ -1,3 +1,3 @@
-[submodule "submodule_aditya"]
-	path = airflow/dags
+[submodule "sample_airflow"]
+	path = sample_airflow
 	url = https://github.com/adityaraj59/sample_airflow.git
